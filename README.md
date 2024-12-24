@@ -1,5 +1,5 @@
 ## HERE: you must change the url in _config.yml first!
-
+## HERE: you must change the url in _config.yml first!
 
 这个仓库基本配置好了装有kira主题的Hexo静态网站，您可以使用这个仓库来进行测试
 
