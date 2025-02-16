@@ -4,7 +4,7 @@ background: # 既是博客的背景，又是文章默认头图
     width: 1280
     height: 720
 favicon:
-    href: https://kira.host/assets/Pictures/Others/116359b4ccf19917.jpg # 网站图标
+    href: https://pic.superbed.cc/item/67b1f620fa9f77b4dcf2af22.png # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
@@ -116,7 +116,7 @@ giscus:
   lang: zh-CN
 
 copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
-copyTip: "著作权归作者所有。\n请随意转载。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
+copyTip: "著作权归作者所有,请随意转载.\n请随意转载。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
 # 自定义侧边栏尾部内容
 sidebar: ''
