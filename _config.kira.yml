@@ -43,7 +43,7 @@ maxTagcloud: 0 # 标签云组件显示的标签数量，0 表示不限制
 
 social:
     QQ:
-        - tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=<去掉尖括号后填上你的QQ号>&website=www.oicqzone.com
+        - tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=316022697&website=www.oicqzone.com
         - icon-QQ
         - rgb(49, 174, 255)
         - rgba(49, 174, 255, .1)
@@ -53,7 +53,7 @@ social:
         - rgb(231, 106, 141)
         - rgba(231, 106, 141, .15)
     GitHub:
-        - https://github.com/<你的github id>/
+        - https://github.com/meektion/
         - icon-github
         - rgb(25, 23, 23)
         - rgba(25, 23, 23, .15)
@@ -106,17 +106,17 @@ gitalk:
 # https://giscus.app/zh-CN 可以在这个网站上手动选择配置填到下方对应位置
 giscus:
     active: true # 是否启用 giscus
-    repo: -your github username-/-your giscus repo- # 存放评论的 discus 所在的 repo
-    repoID: -your giscus repo ID- # GitHub repo ID
+    repo: -meektion/giscus- # 存放评论的 discus 所在的 repo
+    repoID: -MDEwOlJlcG9zaXRvcnkzNTE5NTgwNTM=- # GitHub repo ID
     category: Announcements # 选择新 discussions 所在的分类
-    categoryID: -giscus category id- # 分类 ID
+    categoryID: -DIC_kwDOFPp0Jc4CcjOR- # 分类 ID
     mapping: pathname # pathname, url, title, og:title, specific, number
     # term: # abc 123 # specific | number
-    theme: light
-    lang: en
+    theme: preferred_color_scheme
+    lang: zh-CN
 
 copyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
-copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
+copyTip: "著作权归作者所有。\n请随意转载。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
 # 自定义侧边栏尾部内容
 sidebar: ''
