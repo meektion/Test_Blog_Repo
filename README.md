@@ -1,6 +1,5 @@
-## HERE: you must change the url in _config.yml first!
-## HERE: you must change the url in _config.yml first!
+### About me
 
-这个仓库基本配置好了装有kira主题的Hexo静态网站，您可以使用这个仓库来进行测试
-
-如果您想要基于这个仓库来个性化您的网站，只需要把这个仓库克隆，并参考[官方文档](https://kira.host/hexo/)修改_config.kira.yml和_config.yml即可
+用文字记录我的胡思乱想与生活的瞬间，我疯狂的想法与可能为之的行动。
+记录在这个时代下的焦虑、迷茫、挣扎与希望。
+About me
