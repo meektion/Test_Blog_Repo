@@ -106,10 +106,10 @@ gitalk:
 # https://giscus.app/zh-CN 可以在这个网站上手动选择配置填到下方对应位置
 giscus:
   active: true # 是否启用 giscus
-  repo: meetktion/Issue_Blog # 存放评论的 discus 所在的 repo
-  repoID: MDEwOlJlcG9zaXRvcnkzNTE5NTgwNTM= # GitHub repo ID
+  repo: meektion/Issue_Blog # 存放评论的 discus 所在的 repo
+  repoID: R_kgDON5-g_A # GitHub repo ID
   category: Announcements # 选择新 discussions 所在的分类
-  categoryID: DIC_kwDOFPp0Jc4CcjOR # 分类 ID
+  categoryID: DIC_kwDON5-g_M4CnBA8 # 分类 ID
   mapping: pathname # pathname, url, title, og:title, specific, number
   # term: # abc 123 # specific | number
   theme: preferred_color_scheme
