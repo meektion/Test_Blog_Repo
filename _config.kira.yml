@@ -115,7 +115,7 @@ giscus:
   theme: preferred_color_scheme
   lang: zh-CN
 
-copyright: 'My personal blog([About Me](https://github.com/meektion/meektion.github.io/)) using issues and GitHub Actions (随意转载，无需署名)
+copyright: 'My personal blog[About Me](https://github.com/meektion/meektion.github.io/) using issues and GitHub Actions (随意转载，无需署名)
 ![image](https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528)'
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前
 # 自定义侧边栏尾部内容
