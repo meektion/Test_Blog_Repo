@@ -115,7 +115,7 @@ giscus:
   theme: preferred_color_scheme
   lang: zh-CN
 
-copyright: '<strong>版权声明：</strong><img src="https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528" alt="随意转载，无需署名"></a> 随意转载，无需署名'
+copyright: '<strong>版权声明：</strong><img src="https://github.com/user-attachments/assets/a168bf11-661e-4566-b042-7fc9544de528" alt="随意转载，无需署名"></a>  随意转载，无需署名'
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前
 # 自定义侧边栏尾部内容
 sidebar: ''
@@ -128,8 +128,8 @@ sidebar: ''
 # 友链配置
 friends:
     # - avatar: <友链缩略图>
-    #   link: <跳转连接>
-    #   name: <名称>
+    link: https://829259.xyz
+    name: 做个有意思的人
 
 # 可复制的代码块
 copyableCodeblock: true
