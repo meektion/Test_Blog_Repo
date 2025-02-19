@@ -4,7 +4,7 @@ background: # 既是博客的背景，又是文章默认头图
     width: 1280
     height: 720
 favicon:
-    href: https://pic.superbed.cc/item/67b1f620fa9f77b4dcf2af22.png # 网站图标
+    href: https://kira.host/assets/Pictures/Others/116359b4ccf19917.jpg # 网站图标
     type: image/png # 图标类型，可能的值有(image/png, image/vnd.microsoft.icon, image/x-icon, image/gif)
 
 # 附加图标库 使用说明：https://kira.host/hexo/config/icon.html
@@ -43,7 +43,7 @@ maxTagcloud: 0 # 标签云组件显示的标签数量，0 表示不限制
 
 social:
     QQ:
-        - tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=316022697&website=www.oicqzone.com
+        - tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=<去掉尖括号后填上你的QQ号>&website=www.oicqzone.com
         - icon-QQ
         - rgb(49, 174, 255)
         - rgba(49, 174, 255, .1)
@@ -53,7 +53,7 @@ social:
         - rgb(231, 106, 141)
         - rgba(231, 106, 141, .15)
     GitHub:
-        - https://github.com/meektion/
+        - https://github.com/<你的github id>/
         - icon-github
         - rgb(25, 23, 23)
         - rgba(25, 23, 23, .15)
@@ -121,9 +121,6 @@ copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权�
 # 自定义侧边栏尾部内容
 sidebar: ''
 
-# 自定义侧边栏尾部内容
-sidebar: ''
-
 # 自定义样式
 # customStyles:
 #     - style
@@ -132,8 +129,8 @@ sidebar: ''
 # 友链配置
 friends:
     # - avatar: <友链缩略图>
-    link: https://829259.xyz
-    name: 做个有意思的人
+    #   link: <跳转连接>
+    #   name: <名称>
 
 # 可复制的代码块
 copyableCodeblock: true
