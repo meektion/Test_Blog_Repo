@@ -1,13 +1,13 @@
-# Hexo Configuration
+p# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 姜大哥的博客 #Change to the desired title
+title: 姜老哥的博客 #Change to the desired title
 subtitle: ''
 description: ''
 keywords:
-author: meektion
+author: 姜老哥
 language: en
 timezone: ''
 
