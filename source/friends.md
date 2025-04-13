@@ -11,7 +11,8 @@ layout: friends
 
 [记录、回忆](https://134688.xyz)
 
-[姜老哥的博客](https://myogg.hidns.co)
+[北方的博客](https://jreely.dpdns.org)
+
 
 
 
